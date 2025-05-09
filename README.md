@@ -35,5 +35,18 @@ This project highlights my ability to collect, prepare, analyze, and present dat
 ---
 
 ## 📁 Folder Structure
+Store-Sales-Performance-Analysis/
+│
+├── 📂 SQL/
+│   └── StoreSales_SQL_Queries.sql
+│
+├── 📂 Excel/
+│   └── StoreSales_Analysis.xlsx
+│
+├── 📂 PowerBI/
+│   └── SQL_PowerBI_Sales_Analysis.pbix
+│
+├── 📄 README.md
+└── 📄 LICENSE
 
 
